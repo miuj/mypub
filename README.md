@@ -1,2 +1,0 @@
-# mypub
-General Repo
